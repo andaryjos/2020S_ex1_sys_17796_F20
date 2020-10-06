@@ -12,7 +12,8 @@ package pickacard;
  * @author Paul Bonenfant
  * @author Joshua Andary Oct 2 2020
  */
-public class Card {
+public class Card
+{
 
    private String suit; //clubs, spades, diamonds, hearts
    private int value;//1-13
